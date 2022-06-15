@@ -1,0 +1,70 @@
+#encabezado {
+    background-color: white;
+    opacity: 1;
+
+    transition: box-shadow 0.1s ease;
+    background-color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#encabezado:hover {
+    box-shadow: 0 0.1rem 0.4rem #707070;
+}
+
+
+#menu-color {
+
+    background-color: white;
+    opacity: 1;
+}
+
+#ahora-aceptamos {
+
+    background-color: white;
+    opacity: 1;
+}
+
+#footer {
+
+    background-color: white;
+    color: black;
+    opacity: 1;
+}
+
+#tabla1 {
+    transition: box-shadow 0.1s ease;
+    background-color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#tabla1:hover {
+    box-shadow: 0 0.1rem 0.4rem #707070;
+}
+
+#tabla2 {
+    transition: box-shadow 0.1s ease;
+    background-color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#tabla2:hover {
+    box-shadow: 0 0.1rem 0.4rem #707070;
+}
+
+#tabla3 {
+    transition: box-shadow 0.1s ease;
+    background-color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#tabla3:hover {
+    box-shadow: 0 0.1rem 0.4rem #707070;
+}
+
+p {
+    color: black;
+}
